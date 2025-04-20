@@ -30,3 +30,7 @@ This is a simple **Rock Paper Scissors** game implemented using HTML, CSS, and J
 
 ### Draw
 ![Draw Output](output/draw.png)
+
+## Play Game
+
+Check out the live version of the game here: [Rock-Paper-Scissor](https://amanhaidry.github.io/Rock-Paper-Scissor/)
