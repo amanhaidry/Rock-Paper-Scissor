@@ -20,4 +20,13 @@ This is a simple **Rock Paper Scissors** game implemented using HTML, CSS, and J
    - **Draw**: Both you and the computer selected the same option.
 5. The scores will be updated accordingly.
 
+## Example Outputs
 
+### Win
+![Win Output](output/win.png)
+
+### Lose
+![Lose Output](output/lose.png)
+
+### Draw
+![Draw Output](output/draw.png)
